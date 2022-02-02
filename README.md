@@ -1,0 +1,2 @@
+# AwesomeHardwareHacking
+Notes
