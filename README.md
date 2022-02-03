@@ -27,7 +27,7 @@ SPI & I2C | SPI & I2C both are a serial communication protocol that is commonly 
 ***
 <h2 align=center>Illustrations</h2>
 <p align="center">
-  <img  width="1200" src="illustration/UART-SIMPLIFIED.png" />
+  <img  width="1200" src="illustration/UART.png" />
 </p>
   
 
