@@ -25,6 +25,13 @@ JTAG | From the perspective of a hacker, JTAG serves a variety of functions, inc
 SPI & I2C | SPI & I2C both are a serial communication protocol that is commonly used in Flash and EEPROM. We can dump data from it because it includes storage, which might include firmware, hardcoded keys, and other sensitive information, depending on type of target we have.<br />[Dumping Your First Firmware](https://blog.nvisium.com/intro-to-hardware-hacking-dumping-your-first-firmware)
 
 ***
+<h2 align=center>Illustartions</h2>
+<p align="center">
+  <img  width="1200" src="illustration/UART-SIMPLIFIED.png" />
+</p>
+  
+
+***
 ### 🤝 Connect with me
 [![Instagram: souravbaghz](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/souravbaghz)
 [![GitHub souravbaghz](https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github)](https://github.com/souravbaghz)
