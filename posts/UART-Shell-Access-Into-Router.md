@@ -15,7 +15,7 @@ The transmitting UART translates parallel data from a controlling device, such a
 
 UARTs send data asynchronously, which means there is no clock signal to sync the transmitting UART's output of bits with both the receiving UART's sampling of bits. The transmitting UART inserts start and stop bits to the data packet being sent instead of a clock signal. These bits specify the start and end of the data packet, allowing the receiving UART to know when to begin reading the bits.
 <p align="center">
-  <img  width="1200" src="src/uart-cheatsheet.png" />
+  <img  width="600" src="https://raw.githubusercontent.com/souravbaghz/AwesomeHardwareHacking/main/illustration/UART.png" />
 </p>
 
 ### Let The Game Begin:
