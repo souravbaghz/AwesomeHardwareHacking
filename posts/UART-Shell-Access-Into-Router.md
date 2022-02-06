@@ -10,7 +10,7 @@ I immediately took it out and disassembled it, and I can clearly see that there 
 <b>UART(Universal Asynchronous Receiver-Transmitter)</b> is one of the most often used communication protocols in embedded devices. It converts the parallel data it receives into a serial bit stream of data that may possibly be interacted with more easily. 
 The transmitting UART translates parallel data from a controlling device, such as a CPU, into serial data, which it then sends in serial to the receiving UART, which turns the serial data back into parallel data for the receiving device.
 <p align="center">
-  <img  width="1200" src="src/uart-comm.png" />
+  <img  width="500" src="src/uart-comm.png" />
 </p>
 
 UARTs send data asynchronously, which means there is no clock signal to sync the transmitting UART's output of bits with both the receiving UART's sampling of bits. The transmitting UART inserts start and stop bits to the data packet being sent instead of a clock signal. These bits specify the start and end of the data packet, allowing the receiving UART to know when to begin reading the bits.
