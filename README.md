@@ -30,7 +30,9 @@ SPI & I2C | SPI & I2C both are a serial communication protocol that is commonly 
   <img  width="1200" src="illustration/UART.png" />
 </p>
   
-
+***
+### Blog & Writeups:
+- [UART- Shell Access To The Router](https://baudskidninja.medium.com/uart-shell-access-to-router-35c280bb1463)
 ***
 ### 🤝 Connect with me
 [![Instagram: souravbaghz](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/souravbaghz)
